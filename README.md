@@ -1,5 +1,7 @@
 # Standard Notes Extensions
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/25256400-19de-4a55-a026-3d8ced3bf9b7/deploy-status)](https://app.netlify.com/sites/standardnotes-extensions/deploys)
+
 ## Extensions (Needs Attention)
 
 1. extensions/autocomplete-tags.toml -> standardnotes/quick-tags
