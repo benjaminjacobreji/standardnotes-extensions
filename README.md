@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/25256400-19de-4a55-a026-3d8ced3bf9b7/deploy-status)](https://app.netlify.com/sites/standardnotes-extensions/deploys)
 
-Use ```https://standardnotes-extensions.netlify.app//index.json``` as an *Extended Code* in Standard-Notes.
+Use ```https://standardnotes-extensions.netlify.app/index.json``` as an *Extended Code* in Standard-Notes.
 
 
 ## Extensions (Needs Attention)
