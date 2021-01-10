@@ -44,7 +44,7 @@ jobs:
           git status
           if [ -n "$(git status --porcelain)" ]; then
             git add -A
-            git commit -m "Auto updating extensions"
+            git commit -m "GitHub Action: update-extensions"
             git fetch origin main
             git push origin HEAD:main
           else
