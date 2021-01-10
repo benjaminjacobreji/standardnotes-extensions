@@ -39,7 +39,6 @@ jobs:
       - name: Commit Changes
         shell: bash
         run: |
-          git remote set-url origin ${{ secrets.ssh }}
           git status
           if [ -n "$(git status --porcelain)" ]; then
             git add -A
