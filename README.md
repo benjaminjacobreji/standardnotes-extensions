@@ -4,7 +4,6 @@
 
 Use ```https://standardnotes-extensions.netlify.app/index.json``` as an *Extended Code* in Standard-Notes.
 
-
 ## Extensions (Needs Attention)
 
 1. extensions/autocomplete-tags.toml -> standardnotes/quick-tags
