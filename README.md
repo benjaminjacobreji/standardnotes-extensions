@@ -2,6 +2,17 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/25256400-19de-4a55-a026-3d8ced3bf9b7/deploy-status)](https://app.netlify.com/sites/standardnotes-extensions/deploys)
 
+## Features
+
+1. Updated daily (GitHub Actions using ```schedule```)
+2. Contains Official and custom extensions
+
+## Suggest new extensions
+
+Open a Pull Request to suggest new extensions.  
+Alternatively, open an Issue to suggest new extensions.    
+Good Day
+
 ## Usage
 
 ### Option 1: Use default URL
