@@ -27,6 +27,11 @@ jobs:
 
       - name: Setup-Python@v2
         uses: actions/setup-python@v2
+        
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Update Extensions
         run: python update.py
