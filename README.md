@@ -11,7 +11,6 @@
 
 Open a Pull Request to suggest new extensions.  
 Alternatively, open an Issue to suggest new extensions.    
-Good Day
 
 ## Usage
 
