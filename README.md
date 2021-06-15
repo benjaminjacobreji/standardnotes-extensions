@@ -9,7 +9,7 @@
 
 ## Suggest new extensions
 
-Open a Pull Request to suggest new extensions.  
+Open a Pull Request to add new extensions.  
 Alternatively, open an Issue to suggest new extensions.    
 
 ## Usage
