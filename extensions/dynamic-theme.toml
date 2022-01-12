@@ -5,6 +5,6 @@ main = "dist/dist.css"
 name = "Dynamic"
 layerable = true
 content_type = "SN|Theme"
-version = "1.0.2"
+version = "1.0.3"
 marketing_url = "https://standardnotes.org/extensions/dynamic"
 description = "A smart theme that minimizes the tags and notes panels when they are not in use."
