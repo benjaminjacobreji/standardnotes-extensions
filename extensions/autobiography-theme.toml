@@ -4,7 +4,7 @@ github = "sn-extensions/autobiography-theme"
 main = "dist/dist.css"
 name = "Autobiography"
 content_type = "SN|Theme"
-version = "1.0.3"
+version = "1.0.4"
 thumbnail_url = "https://s3.amazonaws.com/standard-notes/screenshots/models/themes/autobiography.jpg"
 description = "A theme for writers and readers."
 
